@@ -1,0 +1,13 @@
+D Exercise1_Nivel1-2024-11-10 14:39:34
+F List_directory.java-2024-11-10 14:14:02
+F Main.java-2024-11-10 14:39:34
+D Exercise2_Nivel1-2024-11-11 18:07:43
+F Listtree_directory.java-2024-11-11 18:04:10
+F Main.java-2024-11-11 18:07:43
+D Exercise3_Nivel1-2024-11-11 21:53:36
+F Main.java-2024-11-11 21:52:38
+F Modified_Listtreedirectory.java-2024-11-11 21:53:36
+F result.txt-2024-11-11 21:53:55
+D Exercise4_Nivel1-2024-11-11 21:52:38
+F Directorio.java-2024-11-11 21:52:38
+F Main.java-2024-11-11 21:14:34
