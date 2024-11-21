@@ -4,5 +4,5 @@ Para poder navegar hasta la carpeta src usamos el comando cd de la siguiente for
 javac Exercise1_Nivel1/Main.java
 -Después deberemos ejecutar el archivo con extensión.class que se ha creado pasandole además el argumento que nos pide el método
 que es la ruta que nos pide para cada ejercicio de la siguiente forma:
-java Exercise1_Nivel1.Main C:\Users\User\IdeaProjects\1.5JavaLenguage\src\Exercise5_Nivel1
+java Exercise1_Nivel1.Main \src\Exercise5_Nivel1
 -Después de ello se nos mostrará la acción que el método main del ejercicio en cuestión se le había programado que hiciese 
